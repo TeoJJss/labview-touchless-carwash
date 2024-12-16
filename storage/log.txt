@@ -1,0 +1,13 @@
+30-Nov-24,2:10 PM,deluxe wash
+30-Nov-24,2:12 PM,economy wash
+30-Nov-24,2:18 PM,deluxe wash
+30-Nov-24,2:19 PM,economy wash
+30-Nov-24,7:42 PM,deluxe wash
+30-Nov-24,7:42 PM,economy wash
+03-Dec-24,7:46 PM,economy wash
+03-Dec-24,7:59 PM,deluxe wash
+03-Dec-24,8:00 PM,economy wash
+03-Dec-24,8:40 PM,economy wash
+03-Dec-24,8:42 PM,deluxe wash
+14-Dec-24,7:24 PM,economy wash
+14-Dec-24,7:25 PM,deluxe wash
